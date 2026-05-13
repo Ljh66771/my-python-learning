@@ -6,3 +6,4 @@
 - `selection_sort.py` —— 选择排序算法的实现。
 - `numIslands.py`：使用 BFS 计算岛屿数量的 LeetCode 解法
 - `depth.py`:利用深度优先搜索计算二叉树最大深度
+- `Logicgate.py`:类封装逻辑门并且使用连接器实现逻辑门电路
